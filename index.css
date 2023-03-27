@@ -1,0 +1,53 @@
+.btn-outline-success{
+    color: white;
+    border: none;
+    background-color:rgb(124, 81, 161) ;
+    font-weight: 600;
+}
+
+.btn-outline-success:hover{
+    color: black;
+    background-color: transparent;
+}
+
+.btn-outline-success:active{
+    color: black;
+    background-color: transparent;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: black;
+}
+
+.carousel-inner{
+    width: 80%;
+    margin-left: 110px;
+   
+}
+
+body{
+    background-color: hsl(48, 77%, 90%);
+}
+
+.margin{
+    margin-left: 100px;
+}
+
+.carousel-control-next-icon {
+    background-image: url(img/arrow.jpg);}
+
+.carousel-control-prev-icon {
+        background-image: url(img/arrow2.jpg);
+    }
+
+.text{
+    text-align: center;
+    color:white;
+}
+
+footer{
+    background-color:rgb(124, 81, 161) ;
+    height: 20vh;
+    color: white;
+    letter-spacing: -0.1em;
+}
